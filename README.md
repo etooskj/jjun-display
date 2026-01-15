@@ -1,1 +1,1 @@
-# jjun-display
+# sparta-display
